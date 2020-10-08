@@ -1,7 +1,7 @@
 # nodejs-youtube-downloader
 youtube downloader with website made in nodejs, html, css and javascript
 
-required packages:
+required npm packages:
 ytdl-core,
 fs,
 http,
