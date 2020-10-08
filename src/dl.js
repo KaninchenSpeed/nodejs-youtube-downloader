@@ -49,7 +49,7 @@ async function handleRequest(request, response){
         if (suc == 0) dl(ytl, filen);
         names[names.length] = filen;
     }
-    response.write(`<html><head><script>var url = window.location.href; url = url.split("/"); url = url[3]; url = "http://25.88.152.194:80/download.html?" + url; window.location.assign(url);</script></head></html>`);
+    response.write(`<html><head><script>var url = window.location.href; url = url.split("/"); url = url[3]; url = "http://localhost:80/download.html?" + url; window.location.assign(url);</script></head></html>`);
     response.end();
 }
 
