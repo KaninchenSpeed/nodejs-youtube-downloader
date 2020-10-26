@@ -15,7 +15,7 @@ function download() {
         if (i > 0) url += ",";
         url += download_list[i];
     }
-    url = `http://25.88.152.194:2000/${url}`;
+    url = `http://localhost:2000/${url}`;
     window.location.assign(url);
 }
 
