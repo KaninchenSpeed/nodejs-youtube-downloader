@@ -1,7 +1,7 @@
 # nodejs-youtube-downloader (Broken)
 youtube downloader with website made in nodejs, html, css and javascript
 
-This Sofware is Broken
+## This Software is Broken
 
 required npm packages:
 ytdl-core,
