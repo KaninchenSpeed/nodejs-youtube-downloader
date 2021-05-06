@@ -1,4 +1,4 @@
-# nodejs-youtube-downloader (Broken)
+# nodejs-youtube-downloader (Broken, Outdated)
 youtube downloader with website made in nodejs, html, css and javascript
 
 ## This Software is Broken
